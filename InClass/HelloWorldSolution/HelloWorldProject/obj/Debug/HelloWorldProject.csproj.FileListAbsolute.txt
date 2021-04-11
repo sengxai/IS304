@@ -1,0 +1,10 @@
+D:\UWEC\IS304\HelloWorldSolution\HelloWorldProject\bin\Debug\HelloWorldProject.exe.config
+D:\UWEC\IS304\HelloWorldSolution\HelloWorldProject\bin\Debug\HelloWorldProject.exe
+D:\UWEC\IS304\HelloWorldSolution\HelloWorldProject\bin\Debug\HelloWorldProject.pdb
+D:\UWEC\IS304\HelloWorldSolution\HelloWorldProject\obj\Debug\HelloWorldProject.csprojAssemblyReference.cache
+D:\UWEC\IS304\HelloWorldSolution\HelloWorldProject\obj\Debug\HelloWorldProject.frmHelloWorld.resources
+D:\UWEC\IS304\HelloWorldSolution\HelloWorldProject\obj\Debug\HelloWorldProject.Properties.Resources.resources
+D:\UWEC\IS304\HelloWorldSolution\HelloWorldProject\obj\Debug\HelloWorldProject.csproj.GenerateResource.cache
+D:\UWEC\IS304\HelloWorldSolution\HelloWorldProject\obj\Debug\HelloWorldProject.csproj.CoreCompileInputs.cache
+D:\UWEC\IS304\HelloWorldSolution\HelloWorldProject\obj\Debug\HelloWorldProject.exe
+D:\UWEC\IS304\HelloWorldSolution\HelloWorldProject\obj\Debug\HelloWorldProject.pdb

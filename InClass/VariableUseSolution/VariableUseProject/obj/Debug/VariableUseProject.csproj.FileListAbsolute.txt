@@ -1,0 +1,10 @@
+D:\UWEC\IS304\VariableUseSolution\VariableUseProject\bin\Debug\VariableUseProject.exe.config
+D:\UWEC\IS304\VariableUseSolution\VariableUseProject\bin\Debug\VariableUseProject.exe
+D:\UWEC\IS304\VariableUseSolution\VariableUseProject\bin\Debug\VariableUseProject.pdb
+D:\UWEC\IS304\VariableUseSolution\VariableUseProject\obj\Debug\VariableUseProject.csprojAssemblyReference.cache
+D:\UWEC\IS304\VariableUseSolution\VariableUseProject\obj\Debug\VariableUseProject.Properties.Resources.resources
+D:\UWEC\IS304\VariableUseSolution\VariableUseProject\obj\Debug\VariableUseProject.csproj.GenerateResource.cache
+D:\UWEC\IS304\VariableUseSolution\VariableUseProject\obj\Debug\VariableUseProject.csproj.CoreCompileInputs.cache
+D:\UWEC\IS304\VariableUseSolution\VariableUseProject\obj\Debug\VariableUseProject.exe
+D:\UWEC\IS304\VariableUseSolution\VariableUseProject\obj\Debug\VariableUseProject.pdb
+D:\UWEC\IS304\VariableUseSolution\VariableUseProject\obj\Debug\VariableUseProject.frmVariableUse.resources

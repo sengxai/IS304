@@ -1,0 +1,10 @@
+D:\UWEC\IS304\VariableCalcSolution\VariableCalcProject\bin\Debug\VariableCalcProject.exe.config
+D:\UWEC\IS304\VariableCalcSolution\VariableCalcProject\bin\Debug\VariableCalcProject.exe
+D:\UWEC\IS304\VariableCalcSolution\VariableCalcProject\bin\Debug\VariableCalcProject.pdb
+D:\UWEC\IS304\VariableCalcSolution\VariableCalcProject\obj\Debug\VariableCalcProject.csprojAssemblyReference.cache
+D:\UWEC\IS304\VariableCalcSolution\VariableCalcProject\obj\Debug\VariableCalcProject.frmVariableCalc.resources
+D:\UWEC\IS304\VariableCalcSolution\VariableCalcProject\obj\Debug\VariableCalcProject.Properties.Resources.resources
+D:\UWEC\IS304\VariableCalcSolution\VariableCalcProject\obj\Debug\VariableCalcProject.csproj.GenerateResource.cache
+D:\UWEC\IS304\VariableCalcSolution\VariableCalcProject\obj\Debug\VariableCalcProject.csproj.CoreCompileInputs.cache
+D:\UWEC\IS304\VariableCalcSolution\VariableCalcProject\obj\Debug\VariableCalcProject.exe
+D:\UWEC\IS304\VariableCalcSolution\VariableCalcProject\obj\Debug\VariableCalcProject.pdb

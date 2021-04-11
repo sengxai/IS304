@@ -1,0 +1,9 @@
+D:\UWEC\IS304\InClass\ATMApplicationSolution\ATMApplicationProject\bin\Debug\ATMApplicationProject.exe.config
+D:\UWEC\IS304\InClass\ATMApplicationSolution\ATMApplicationProject\bin\Debug\ATMApplicationProject.exe
+D:\UWEC\IS304\InClass\ATMApplicationSolution\ATMApplicationProject\bin\Debug\ATMApplicationProject.pdb
+D:\UWEC\IS304\InClass\ATMApplicationSolution\ATMApplicationProject\obj\Debug\ATMApplicationProject.csprojAssemblyReference.cache
+D:\UWEC\IS304\InClass\ATMApplicationSolution\ATMApplicationProject\obj\Debug\ATMApplicationProject.Properties.Resources.resources
+D:\UWEC\IS304\InClass\ATMApplicationSolution\ATMApplicationProject\obj\Debug\ATMApplicationProject.csproj.GenerateResource.cache
+D:\UWEC\IS304\InClass\ATMApplicationSolution\ATMApplicationProject\obj\Debug\ATMApplicationProject.csproj.CoreCompileInputs.cache
+D:\UWEC\IS304\InClass\ATMApplicationSolution\ATMApplicationProject\obj\Debug\ATMApplicationProject.exe
+D:\UWEC\IS304\InClass\ATMApplicationSolution\ATMApplicationProject\obj\Debug\ATMApplicationProject.pdb

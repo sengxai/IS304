@@ -1,0 +1,10 @@
+D:\UWEC\IS304\InClass\IfDemoSolution\IfDemoProject\bin\Debug\IfDemoProject.exe.config
+D:\UWEC\IS304\InClass\IfDemoSolution\IfDemoProject\bin\Debug\IfDemoProject.exe
+D:\UWEC\IS304\InClass\IfDemoSolution\IfDemoProject\bin\Debug\IfDemoProject.pdb
+D:\UWEC\IS304\InClass\IfDemoSolution\IfDemoProject\obj\Debug\IfDemoProject.csprojAssemblyReference.cache
+D:\UWEC\IS304\InClass\IfDemoSolution\IfDemoProject\obj\Debug\IfDemoProject.frmIfDemo.resources
+D:\UWEC\IS304\InClass\IfDemoSolution\IfDemoProject\obj\Debug\IfDemoProject.Properties.Resources.resources
+D:\UWEC\IS304\InClass\IfDemoSolution\IfDemoProject\obj\Debug\IfDemoProject.csproj.GenerateResource.cache
+D:\UWEC\IS304\InClass\IfDemoSolution\IfDemoProject\obj\Debug\IfDemoProject.csproj.CoreCompileInputs.cache
+D:\UWEC\IS304\InClass\IfDemoSolution\IfDemoProject\obj\Debug\IfDemoProject.exe
+D:\UWEC\IS304\InClass\IfDemoSolution\IfDemoProject\obj\Debug\IfDemoProject.pdb

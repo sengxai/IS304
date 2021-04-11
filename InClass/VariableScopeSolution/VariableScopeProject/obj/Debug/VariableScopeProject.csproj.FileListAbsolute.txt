@@ -1,0 +1,10 @@
+D:\UWEC\IS304\VariableScopeSolution\VariableScopeProject\bin\Debug\VariableScopeProject.exe.config
+D:\UWEC\IS304\VariableScopeSolution\VariableScopeProject\bin\Debug\VariableScopeProject.exe
+D:\UWEC\IS304\VariableScopeSolution\VariableScopeProject\bin\Debug\VariableScopeProject.pdb
+D:\UWEC\IS304\VariableScopeSolution\VariableScopeProject\obj\Debug\VariableScopeProject.csprojAssemblyReference.cache
+D:\UWEC\IS304\VariableScopeSolution\VariableScopeProject\obj\Debug\VariableScopeProject.frmVariableScope.resources
+D:\UWEC\IS304\VariableScopeSolution\VariableScopeProject\obj\Debug\VariableScopeProject.Properties.Resources.resources
+D:\UWEC\IS304\VariableScopeSolution\VariableScopeProject\obj\Debug\VariableScopeProject.csproj.GenerateResource.cache
+D:\UWEC\IS304\VariableScopeSolution\VariableScopeProject\obj\Debug\VariableScopeProject.csproj.CoreCompileInputs.cache
+D:\UWEC\IS304\VariableScopeSolution\VariableScopeProject\obj\Debug\VariableScopeProject.exe
+D:\UWEC\IS304\VariableScopeSolution\VariableScopeProject\obj\Debug\VariableScopeProject.pdb

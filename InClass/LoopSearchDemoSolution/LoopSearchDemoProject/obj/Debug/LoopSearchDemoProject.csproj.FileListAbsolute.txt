@@ -1,0 +1,10 @@
+D:\UWEC\IS304\InClass\LoopSearchDemoSolution\LoopSearchDemoProject\bin\Debug\LoopSearchDemoProject.exe.config
+D:\UWEC\IS304\InClass\LoopSearchDemoSolution\LoopSearchDemoProject\bin\Debug\LoopSearchDemoProject.exe
+D:\UWEC\IS304\InClass\LoopSearchDemoSolution\LoopSearchDemoProject\bin\Debug\LoopSearchDemoProject.pdb
+D:\UWEC\IS304\InClass\LoopSearchDemoSolution\LoopSearchDemoProject\obj\Debug\LoopSearchDemoProject.csprojAssemblyReference.cache
+D:\UWEC\IS304\InClass\LoopSearchDemoSolution\LoopSearchDemoProject\obj\Debug\LoopSearchDemoProject.Form1.resources
+D:\UWEC\IS304\InClass\LoopSearchDemoSolution\LoopSearchDemoProject\obj\Debug\LoopSearchDemoProject.Properties.Resources.resources
+D:\UWEC\IS304\InClass\LoopSearchDemoSolution\LoopSearchDemoProject\obj\Debug\LoopSearchDemoProject.csproj.GenerateResource.cache
+D:\UWEC\IS304\InClass\LoopSearchDemoSolution\LoopSearchDemoProject\obj\Debug\LoopSearchDemoProject.csproj.CoreCompileInputs.cache
+D:\UWEC\IS304\InClass\LoopSearchDemoSolution\LoopSearchDemoProject\obj\Debug\LoopSearchDemoProject.exe
+D:\UWEC\IS304\InClass\LoopSearchDemoSolution\LoopSearchDemoProject\obj\Debug\LoopSearchDemoProject.pdb

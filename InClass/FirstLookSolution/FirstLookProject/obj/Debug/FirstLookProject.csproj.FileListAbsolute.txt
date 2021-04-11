@@ -1,0 +1,10 @@
+D:\UWEC\IS304\FirstLookSolution\FirstLookProject\bin\Debug\FirstLookProject.exe.config
+D:\UWEC\IS304\FirstLookSolution\FirstLookProject\bin\Debug\FirstLookProject.exe
+D:\UWEC\IS304\FirstLookSolution\FirstLookProject\bin\Debug\FirstLookProject.pdb
+D:\UWEC\IS304\FirstLookSolution\FirstLookProject\obj\Debug\FirstLookProject.csprojAssemblyReference.cache
+D:\UWEC\IS304\FirstLookSolution\FirstLookProject\obj\Debug\FirstLookProject.frmFirstLook.resources
+D:\UWEC\IS304\FirstLookSolution\FirstLookProject\obj\Debug\FirstLookProject.Properties.Resources.resources
+D:\UWEC\IS304\FirstLookSolution\FirstLookProject\obj\Debug\FirstLookProject.csproj.GenerateResource.cache
+D:\UWEC\IS304\FirstLookSolution\FirstLookProject\obj\Debug\FirstLookProject.csproj.CoreCompileInputs.cache
+D:\UWEC\IS304\FirstLookSolution\FirstLookProject\obj\Debug\FirstLookProject.exe
+D:\UWEC\IS304\FirstLookSolution\FirstLookProject\obj\Debug\FirstLookProject.pdb

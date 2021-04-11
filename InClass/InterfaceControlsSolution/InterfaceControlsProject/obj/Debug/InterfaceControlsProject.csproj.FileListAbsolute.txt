@@ -1,0 +1,10 @@
+D:\UWEC\IS304\InterfaceControlsSolution\InterfaceControlsProject\bin\Debug\InterfaceControlsProject.exe.config
+D:\UWEC\IS304\InterfaceControlsSolution\InterfaceControlsProject\bin\Debug\InterfaceControlsProject.exe
+D:\UWEC\IS304\InterfaceControlsSolution\InterfaceControlsProject\bin\Debug\InterfaceControlsProject.pdb
+D:\UWEC\IS304\InterfaceControlsSolution\InterfaceControlsProject\obj\Debug\InterfaceControlsProject.csprojAssemblyReference.cache
+D:\UWEC\IS304\InterfaceControlsSolution\InterfaceControlsProject\obj\Debug\InterfaceControlsProject.frmInterfaceControls.resources
+D:\UWEC\IS304\InterfaceControlsSolution\InterfaceControlsProject\obj\Debug\InterfaceControlsProject.Properties.Resources.resources
+D:\UWEC\IS304\InterfaceControlsSolution\InterfaceControlsProject\obj\Debug\InterfaceControlsProject.csproj.GenerateResource.cache
+D:\UWEC\IS304\InterfaceControlsSolution\InterfaceControlsProject\obj\Debug\InterfaceControlsProject.csproj.CoreCompileInputs.cache
+D:\UWEC\IS304\InterfaceControlsSolution\InterfaceControlsProject\obj\Debug\InterfaceControlsProject.exe
+D:\UWEC\IS304\InterfaceControlsSolution\InterfaceControlsProject\obj\Debug\InterfaceControlsProject.pdb

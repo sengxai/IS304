@@ -1,0 +1,10 @@
+D:\UWEC\IS304\InClass\AtmAppSolution\AtmAppProject\bin\Debug\AtmAppProject.exe.config
+D:\UWEC\IS304\InClass\AtmAppSolution\AtmAppProject\bin\Debug\AtmAppProject.exe
+D:\UWEC\IS304\InClass\AtmAppSolution\AtmAppProject\bin\Debug\AtmAppProject.pdb
+D:\UWEC\IS304\InClass\AtmAppSolution\AtmAppProject\obj\Debug\AtmAppProject.csprojAssemblyReference.cache
+D:\UWEC\IS304\InClass\AtmAppSolution\AtmAppProject\obj\Debug\AtmAppProject.frmAtmApp.resources
+D:\UWEC\IS304\InClass\AtmAppSolution\AtmAppProject\obj\Debug\AtmAppProject.Properties.Resources.resources
+D:\UWEC\IS304\InClass\AtmAppSolution\AtmAppProject\obj\Debug\AtmAppProject.csproj.GenerateResource.cache
+D:\UWEC\IS304\InClass\AtmAppSolution\AtmAppProject\obj\Debug\AtmAppProject.csproj.CoreCompileInputs.cache
+D:\UWEC\IS304\InClass\AtmAppSolution\AtmAppProject\obj\Debug\AtmAppProject.exe
+D:\UWEC\IS304\InClass\AtmAppSolution\AtmAppProject\obj\Debug\AtmAppProject.pdb

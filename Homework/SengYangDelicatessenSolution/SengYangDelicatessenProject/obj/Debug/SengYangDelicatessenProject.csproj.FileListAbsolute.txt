@@ -1,0 +1,10 @@
+D:\UWEC\IS304\Homework\SengYangDelicatessenSolution\SengYangDelicatessenProject\bin\Debug\SengYangDelicatessenProject.exe.config
+D:\UWEC\IS304\Homework\SengYangDelicatessenSolution\SengYangDelicatessenProject\bin\Debug\SengYangDelicatessenProject.exe
+D:\UWEC\IS304\Homework\SengYangDelicatessenSolution\SengYangDelicatessenProject\bin\Debug\SengYangDelicatessenProject.pdb
+D:\UWEC\IS304\Homework\SengYangDelicatessenSolution\SengYangDelicatessenProject\obj\Debug\SengYangDelicatessenProject.csprojAssemblyReference.cache
+D:\UWEC\IS304\Homework\SengYangDelicatessenSolution\SengYangDelicatessenProject\obj\Debug\SengYangDelicatessenProject.frmDelicatessen.resources
+D:\UWEC\IS304\Homework\SengYangDelicatessenSolution\SengYangDelicatessenProject\obj\Debug\SengYangDelicatessenProject.Properties.Resources.resources
+D:\UWEC\IS304\Homework\SengYangDelicatessenSolution\SengYangDelicatessenProject\obj\Debug\SengYangDelicatessenProject.csproj.GenerateResource.cache
+D:\UWEC\IS304\Homework\SengYangDelicatessenSolution\SengYangDelicatessenProject\obj\Debug\SengYangDelicatessenProject.csproj.CoreCompileInputs.cache
+D:\UWEC\IS304\Homework\SengYangDelicatessenSolution\SengYangDelicatessenProject\obj\Debug\SengYangDelicatessenProject.exe
+D:\UWEC\IS304\Homework\SengYangDelicatessenSolution\SengYangDelicatessenProject\obj\Debug\SengYangDelicatessenProject.pdb

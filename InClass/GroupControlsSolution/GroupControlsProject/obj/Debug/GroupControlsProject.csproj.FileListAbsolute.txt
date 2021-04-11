@@ -1,0 +1,10 @@
+D:\UWEC\IS304\InClass\GroupControlsSolution\GroupControlsProject\bin\Debug\GroupControlsProject.exe.config
+D:\UWEC\IS304\InClass\GroupControlsSolution\GroupControlsProject\bin\Debug\GroupControlsProject.exe
+D:\UWEC\IS304\InClass\GroupControlsSolution\GroupControlsProject\bin\Debug\GroupControlsProject.pdb
+D:\UWEC\IS304\InClass\GroupControlsSolution\GroupControlsProject\obj\Debug\GroupControlsProject.csprojAssemblyReference.cache
+D:\UWEC\IS304\InClass\GroupControlsSolution\GroupControlsProject\obj\Debug\GroupControlsProject.frmGroupControls.resources
+D:\UWEC\IS304\InClass\GroupControlsSolution\GroupControlsProject\obj\Debug\GroupControlsProject.Properties.Resources.resources
+D:\UWEC\IS304\InClass\GroupControlsSolution\GroupControlsProject\obj\Debug\GroupControlsProject.csproj.GenerateResource.cache
+D:\UWEC\IS304\InClass\GroupControlsSolution\GroupControlsProject\obj\Debug\GroupControlsProject.csproj.CoreCompileInputs.cache
+D:\UWEC\IS304\InClass\GroupControlsSolution\GroupControlsProject\obj\Debug\GroupControlsProject.exe
+D:\UWEC\IS304\InClass\GroupControlsSolution\GroupControlsProject\obj\Debug\GroupControlsProject.pdb

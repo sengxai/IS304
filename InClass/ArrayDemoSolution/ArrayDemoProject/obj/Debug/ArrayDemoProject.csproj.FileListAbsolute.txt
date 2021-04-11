@@ -1,0 +1,10 @@
+D:\UWEC\IS304\InClass\ArrayDemoSolution\ArrayDemoProject\bin\Debug\ArrayDemoProject.exe.config
+D:\UWEC\IS304\InClass\ArrayDemoSolution\ArrayDemoProject\bin\Debug\ArrayDemoProject.exe
+D:\UWEC\IS304\InClass\ArrayDemoSolution\ArrayDemoProject\bin\Debug\ArrayDemoProject.pdb
+D:\UWEC\IS304\InClass\ArrayDemoSolution\ArrayDemoProject\obj\Debug\ArrayDemoProject.csprojAssemblyReference.cache
+D:\UWEC\IS304\InClass\ArrayDemoSolution\ArrayDemoProject\obj\Debug\ArrayDemoProject.frmArrayDemo.resources
+D:\UWEC\IS304\InClass\ArrayDemoSolution\ArrayDemoProject\obj\Debug\ArrayDemoProject.Properties.Resources.resources
+D:\UWEC\IS304\InClass\ArrayDemoSolution\ArrayDemoProject\obj\Debug\ArrayDemoProject.csproj.GenerateResource.cache
+D:\UWEC\IS304\InClass\ArrayDemoSolution\ArrayDemoProject\obj\Debug\ArrayDemoProject.csproj.CoreCompileInputs.cache
+D:\UWEC\IS304\InClass\ArrayDemoSolution\ArrayDemoProject\obj\Debug\ArrayDemoProject.exe
+D:\UWEC\IS304\InClass\ArrayDemoSolution\ArrayDemoProject\obj\Debug\ArrayDemoProject.pdb

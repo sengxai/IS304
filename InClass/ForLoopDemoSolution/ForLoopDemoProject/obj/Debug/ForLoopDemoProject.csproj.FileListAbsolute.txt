@@ -1,0 +1,10 @@
+D:\UWEC\IS304\InClass\ForLoopDemoSolution\ForLoopDemoProject\bin\Debug\ForLoopDemoProject.exe.config
+D:\UWEC\IS304\InClass\ForLoopDemoSolution\ForLoopDemoProject\bin\Debug\ForLoopDemoProject.exe
+D:\UWEC\IS304\InClass\ForLoopDemoSolution\ForLoopDemoProject\bin\Debug\ForLoopDemoProject.pdb
+D:\UWEC\IS304\InClass\ForLoopDemoSolution\ForLoopDemoProject\obj\Debug\ForLoopDemoProject.csprojAssemblyReference.cache
+D:\UWEC\IS304\InClass\ForLoopDemoSolution\ForLoopDemoProject\obj\Debug\ForLoopDemoProject.frmForLoopDemo.resources
+D:\UWEC\IS304\InClass\ForLoopDemoSolution\ForLoopDemoProject\obj\Debug\ForLoopDemoProject.Properties.Resources.resources
+D:\UWEC\IS304\InClass\ForLoopDemoSolution\ForLoopDemoProject\obj\Debug\ForLoopDemoProject.csproj.GenerateResource.cache
+D:\UWEC\IS304\InClass\ForLoopDemoSolution\ForLoopDemoProject\obj\Debug\ForLoopDemoProject.csproj.CoreCompileInputs.cache
+D:\UWEC\IS304\InClass\ForLoopDemoSolution\ForLoopDemoProject\obj\Debug\ForLoopDemoProject.exe
+D:\UWEC\IS304\InClass\ForLoopDemoSolution\ForLoopDemoProject\obj\Debug\ForLoopDemoProject.pdb
